@@ -171,11 +171,10 @@ java -jar app.jar
 
 ---
 
-## ✍️ Autor y licencia
+## ✍️ Autor
 
-- Autor: _Tu Nombre_  
-- Licencia: MIT (o la que prefieras)
-
+- Autor: Kakmanzoo©
+- Licencia: Creative Commons 2025
 ---
 
 ## ✅ Checklist rápido
@@ -187,4 +186,4 @@ java -jar app.jar
 - [ ] Editar `seedUsers()` con tus credenciales  
 - [ ] Cambiar fuente en `UITheme.java` si lo deseas  
 
-¡Listo! Cualquier duda para publicar, exportar JAR, o agregar persistencia, me dices y lo dejamos perfecto. 🚀
+¡Listo! Si tienes alguna duda, puedes contactarme! 🚀
